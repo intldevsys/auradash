@@ -1,9 +1,11 @@
  #  AURA 0.1 - An Intelligent Multi-API DataViz Dashboard 
+
+ <img width="1913" height="922" alt="image" src="https://github.com/user-attachments/assets/bafdb924-aa8d-47e5-82d5-b33ef1765930" />
+
 ### Release coming soon. Please reach out [here](https://forms.gle/5xLQitmscNUN9ymy5) to assist with early testing or wish to contribute.
 
 An adaptive data visualization dashboard that enables users to view complex data from multiple APIs using natural language—no advanced coding skills required. The platform streamlines analytics by allowing users to create real-time, interactive data visualizations with minimal setup via an LLM-powered assistant. AURA’s modular, glassmorphic UI features customizable panels such as 3D global maps, entity networks, heatmaps, timelines, word clouds, and more. It’s inspired by advanced dashboards like IBM Watson News Explorer, but offers greater flexibility in panel management, data source integration, and user interaction.
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/315c4730-a809-4573-be1b-7ed76966c6c9" />
 
 ## 🎯 Target Applications
 
