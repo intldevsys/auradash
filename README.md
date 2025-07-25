@@ -4,7 +4,7 @@
 
 ### Release coming soon. Please reach out [here](https://forms.gle/5xLQitmscNUN9ymy5) to assist with early testing or if you wish to contribute.
 
-An adaptive data visualization dashboard that enables users to view complex data from multiple APIs using natural language—no advanced coding skills required. The platform streamlines analytics by allowing users to create real-time, interactive data visualizations with minimal setup via an LLM-powered assistant. AURA’s modular, glassmorphic UI features customizable panels such as 3D global maps, entity networks, heatmaps, timelines, word clouds, and more. It’s inspired by advanced dashboards like IBM Watson News Explorer, but offers greater flexibility in panel management, data source integration, and user interaction.
+An adaptive data visualization dashboard that enables users to view complex data from multiple APIs using natural language—no advanced coding skills required. The platform streamlines analytics by allowing users to create real-time, interactive data visualizations with minimal setup via an LLM-powered assistant. AURA’s hackable UI will feature customizable options for panels to display 3D global maps, entity networks, heatmaps, timelines, word clouds, and more. Inspired by advanced dashboards like IBM Watson News Explorer, and consumer platforms like DAKboard, hoping to find a middle-ground for flexibility in panel management, data source integration, and user interaction.
 
 
 ## 🎯 Target Applications
