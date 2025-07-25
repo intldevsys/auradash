@@ -15,8 +15,8 @@ An adaptive data visualization dashboard that enables users to view complex data
 - **Environmental Monitoring**: Climate data, sustainability metrics
 - **Social Media Analytics**: Trend analysis, engagement monitoring
 
-- 
-<img width="1280" height="546" alt="image" src="https://github.com/user-attachments/assets/93ed14a7-26d0-42e6-a219-b05289cd6de2" />
+  <img width="1835" height="837" alt="image" src="https://github.com/user-attachments/assets/0501b889-3d8d-48a6-8592-a757aa8a150d" />
+
 
 
 ## Example Use-Cases
@@ -25,6 +25,5 @@ An adaptive data visualization dashboard that enables users to view complex data
 - Monitoring real-time trends via sentiment analysis, word clouds and activity heatmaps.
 - Exploring entity relationships or topic networks interactively.
 - Displaying and filtering categorized news data.
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/0342323d-d80c-42d8-b588-b63a25686927" />
-
+<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/7f26881f-b19c-41f2-b4a9-db88bac0c319" />
 
