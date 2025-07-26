@@ -1,6 +1,6 @@
  #  AURA 0.1 - An Intelligent Multi-API DataViz Dashboard 
 
- <img width="1913" height="922" alt="image" src="https://github.com/user-attachments/assets/bafdb924-aa8d-47e5-82d5-b33ef1765930" />
+<img src="https://s2.ezgif.com/tmp/ezgif-2c88e08c8db388.gif" width="1024" height="768" />
 
 ### Release coming soon. Please reach out [here](https://forms.gle/5xLQitmscNUN9ymy5) to assist with early testing or if you wish to contribute.
 
@@ -15,7 +15,7 @@ An adaptive data visualization dashboard that enables users to view complex data
 - **Environmental Monitoring**: Climate data, sustainability metrics
 - **Social Media Analytics**: Trend analysis, engagement monitoring
 
-  <img width="1835" height="837" alt="image" src="https://github.com/user-attachments/assets/0501b889-3d8d-48a6-8592-a757aa8a150d" />
+<img width="843" height="683" alt="image" src="https://github.com/user-attachments/assets/ccf0a577-4303-4f11-a46c-026d9e755350" />
 
 
 
@@ -25,5 +25,3 @@ An adaptive data visualization dashboard that enables users to view complex data
 - Monitoring real-time trends via sentiment analysis, word clouds and activity heatmaps.
 - Exploring entity relationships or topic networks interactively.
 - Displaying and filtering categorized news data.
-<img width="1280" height="729" alt="image" src="https://github.com/user-attachments/assets/7f26881f-b19c-41f2-b4a9-db88bac0c319" />
-
