@@ -1,6 +1,6 @@
  #  AURA 0.1 - An Intelligent Multi-API DataViz Dashboard 
 
-<img src="https://s2.ezgif.com/tmp/ezgif-2c88e08c8db388.gif" width="1024" height="768" />
+
 
 ### Release coming soon. Please reach out [here](https://forms.gle/5xLQitmscNUN9ymy5) to assist with early testing or if you wish to contribute.
 
